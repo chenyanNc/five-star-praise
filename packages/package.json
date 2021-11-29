@@ -1,0 +1,12 @@
+{
+  "name": "five-start-pralse",
+  "version": "1.0.2",
+  "description": "",
+  "main": "fiveStart.umd.min.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["vue五星好评"],
+  "author": "",
+  "license": "ISC"
+}
